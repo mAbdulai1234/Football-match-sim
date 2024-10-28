@@ -1,2 +1,2 @@
-# Football-match-sim
-This project focus on simulating a football match
+# Football-match-sim project
+This code uses JavaScript to create a simulated sports match by leveraging its randomization, logging, and looping functions. Through Math.floor() and Math.random(), it generates random events each minute, while console.log() outputs these events in a way that resembles real-time commentary. JavaScript's loops and conditional statements enable the orderly progression of the match, with each minute advancing systematically. This example showcases JavaScript’s adaptability in building event-based simulations, underscoring its usefulness beyond typical web development tasks.
